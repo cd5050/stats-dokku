@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstats_dokku=self.webpackChunkstats_dokku||[]).push([[8456],{801:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/stats-dokku/blog/tags/facebook","allTagsPath":"/stats-dokku/blog/tags","count":1}')}}]);

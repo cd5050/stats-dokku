@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstats_dokku=self.webpackChunkstats_dokku||[]).push([[5730],{7266:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/stats-dokku/blog/tags/docusaurus","allTagsPath":"/stats-dokku/blog/tags","count":4}')}}]);
